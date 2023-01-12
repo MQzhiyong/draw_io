@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T06:50:25.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="WqRXn2bGzswqCAocem1E" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T06:51:08.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="Sm1_8z3MWm8xVoWwNPOW" version="20.8.3" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1432" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -132,6 +132,10 @@
         <mxCell id="hlQuVm98A-8ef_0kIV-_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hlQuVm98A-8ef_0kIV-_-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="469" />
+              <mxPoint x="940" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hlQuVm98A-8ef_0kIV-_-14" value="get all and append to received" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -168,14 +172,14 @@
             <mxPoint x="840" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hlQuVm98A-8ef_0kIV-_-29" value="result&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-29" value="flashing &lt;br&gt;result" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hlQuVm98A-8ef_0kIV-_-33" value="fail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="605" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hlQuVm98A-8ef_0kIV-_-34" value="success&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="760" width="60" height="30" as="geometry" />
+          <mxGeometry x="970" y="750" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
