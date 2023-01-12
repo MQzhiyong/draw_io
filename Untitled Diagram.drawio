@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T06:38:16.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="3T6uZm3EeTSbPER_m9nM" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T06:46:59.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76" etag="sR1ltoZa5Kq05VZU0C0T" version="20.8.3" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="1432" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,13 +16,8 @@
         <mxCell id="17ea667e15c223fc-2" value="binding tag ID with item info&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="181" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17ea667e15c223fc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" target="17ea667e15c223fc-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="600" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="17ea667e15c223fc-26" value="End" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="810" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yy2sZE4itZw_RQWSuxx_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yy2sZE4itZw_RQWSuxx_-2" target="yy2sZE4itZw_RQWSuxx_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,7 +41,7 @@
         </mxCell>
         <mxCell id="yy2sZE4itZw_RQWSuxx_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="721.0000000000002" y="70" as="sourcePoint" />
+            <mxPoint x="750" y="70" as="sourcePoint" />
             <mxPoint x="840" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -88,8 +83,13 @@
         <mxCell id="yy2sZE4itZw_RQWSuxx_-22" value="ROWA" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="181" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yy2sZE4itZw_RQWSuxx_-24" value="Flashing Device / Antena" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="723" y="253" width="120" height="60" as="geometry" />
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yy2sZE4itZw_RQWSuxx_-24" target="hlQuVm98A-8ef_0kIV-_-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="283" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yy2sZE4itZw_RQWSuxx_-24" value="ESL API" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="732" y="253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yy2sZE4itZw_RQWSuxx_-26" value="http" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="668" y="260" width="60" height="30" as="geometry" />
@@ -128,6 +128,34 @@
         </mxCell>
         <mxCell id="hlQuVm98A-8ef_0kIV-_-11" value="Nats" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hlQuVm98A-8ef_0kIV-_-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-14" value="get all and append to received" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="810" y="429" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hlQuVm98A-8ef_0kIV-_-21" target="hlQuVm98A-8ef_0kIV-_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hlQuVm98A-8ef_0kIV-_-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-21" value="any failed tag need retry" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="339" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-23" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="339" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-27" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="434" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hlQuVm98A-8ef_0kIV-_-28" value="Flashing Device / Antena" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="545" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
