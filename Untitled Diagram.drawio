@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T03:09:13.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52" etag="HgZkyC4f4ABnP_rjazm7" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T03:29:38.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52" etag="94lXMaAYNX3SycmEBZxD" version="20.8.5" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1393" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
           <mxGeometry x="946" y="430" width="100" height="106" as="geometry" />
         </mxCell>
         <mxCell id="Hav-0OUn_8LlEr3j1nNp-3" value="for proxy forward purpose" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="974" width="96" height="36" as="geometry" />
+          <mxGeometry x="390" y="974" width="156" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Hav-0OUn_8LlEr3j1nNp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hav-0OUn_8LlEr3j1nNp-7" target="hlQuVm98A-8ef_0kIV-_-14">
           <mxGeometry relative="1" as="geometry">
@@ -288,8 +288,11 @@
         <mxCell id="Hav-0OUn_8LlEr3j1nNp-29" value="original data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="806" y="890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hav-0OUn_8LlEr3j1nNp-30" value="out request quantity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="550" width="120" height="30" as="geometry" />
+        <mxCell id="Hav-0OUn_8LlEr3j1nNp-30" value="output request quantity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hav-0OUn_8LlEr3j1nNp-32" value="updated info for each tote" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="863" y="750" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
